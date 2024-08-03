@@ -19,18 +19,18 @@ This project focuses on automating the testing of the RESTful Booker API, which 
 - Technologies
 
 ## Technologies Used:
-Postman: Used for designing and executing API requests.
-Collection Runner: Postman's built-in tool for running collections sequentially.
-Newman: Command-line tool for running Postman collections from the terminal.
-npm: Package manager for managing Node.js dependencies.
-htmlextra: HTML reporting library for generating detailed test reports.
-Installation and Usage
-Installation Steps:
+- Postman: Used for designing and executing API requests.
+- Collection Runner: Postman's built-in tool for running collections sequentially.
+- Newman: Command-line tool for running Postman collections from the terminal.
+- npm: Package manager for managing Node.js dependencies.
+- htmlextra: HTML reporting library for generating detailed test reports.
+### Installation and Usage
+#### Installation Steps:
 Clone the project repository: git clone
 
 Install necessary dependencies: npm install
 
-Update environment variables (e.g., base URL) in the .env file (optional).
+Update environment variables (e.g., base URL) in the '''.env ''' file (optional).
 
 ### Usage:
 Run tests using Postman Collection Runner or npm:
