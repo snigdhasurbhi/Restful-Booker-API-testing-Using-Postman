@@ -12,11 +12,11 @@ This project focuses on automating the testing of the RESTful Booker API, which 
 - Prerequisites
 
 ## Before running the tests, make sure the following tools are installed:
-Node.js
-Postman
-Newman
-htmlextraReporter
-Technologies
+- Node.js
+- Postman
+- Newman
+- htmlextraReporter
+- Technologies
 
 ## Technologies Used:
 Postman: Used for designing and executing API requests.
