@@ -1,7 +1,7 @@
 # Restful-Booker-API-testing-Using-Postman
 About This project automates testing for the many Booking functionalities of the Restful Booker API using Postman and various tools. It provides comprehensive coverage of different scenarios and validates the API's expected behavior.
 # Overview
-This project focuses on automating the testing of the RESTful Booker API, which is available at <a https://restful-booker.herokuapp.com.> </a>
+This project focuses on automating the testing of the RESTful Booker API, which is available at < https://restful-booker.herokuapp.com.> </a>
 
 ## Table of Contents
 - Prerequisites
