@@ -24,20 +24,27 @@ This project focuses on automating the testing of the RESTful Booker API, which 
 - Newman: Command-line tool for running Postman collections from the terminal.
 - npm: Package manager for managing Node.js dependencies.
 - htmlextra: HTML reporting library for generating detailed test reports.
+
 ### Installation and Usage
 #### Installation Steps:
-Clone the project repository: git clone
+Clone the project repository: `git clone`
 
-Install necessary dependencies: npm install
+Install necessary dependencies:  `npm install`
 
-Update environment variables (e.g., base URL) in the ".env"  file (optional).
+Update environment variables (e.g., base URL) in the `.env `  file (optional).
 
 ### Usage:
 Run tests using Postman Collection Runner or npm:
 
-After running the tests, Please look at the test report in report.html located in the Newman directory.
+After running the tests, Please look at the test report in `report.html` located in the `Newman` directory.
 
 ### Benefits
-It improves testing efficiency and saves time.
-Ensures consistent and reliable testing of Update Booking functionality.
-Provides clear and readable reports for easy analysis.
+- It improves testing efficiency and saves time.
+- Ensures consistent and reliable testing of Update Booking functionality.
+- Provides clear and readable reports for easy analysis.
+
+### Reporting
+HTML reports for test execution can be generated using Newman and htmlextra. After running the tests, check the `Newman` directory for the generated HTML reports.
+![screencapture-file-C-Users-snigd-newman-newman-API-testing-SOAP-Project-2024-07-26-18_00_53](https://github.com/user-attachments/assets/ecf60c89-3594-42c9-9392-4c0ef0b93fac)
+
+
