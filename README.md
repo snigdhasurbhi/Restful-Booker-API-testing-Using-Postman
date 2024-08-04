@@ -30,7 +30,7 @@ Clone the project repository: git clone
 
 Install necessary dependencies: npm install
 
-Update environment variables (e.g., base URL) in the '''.env ''' file (optional).
+Update environment variables (e.g., base URL) in the '.env ' file (optional).
 
 ### Usage:
 Run tests using Postman Collection Runner or npm:
