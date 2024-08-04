@@ -45,6 +45,7 @@ After running the tests, Please look at the test report in `report.html` located
 
 ### Reporting
 HTML reports for test execution can be generated using Newman and htmlextra. After running the tests, check the `Newman` directory for the generated HTML reports.
-![screencapture-file-C-Users-snigd-newman-newman-API-testing-SOAP-Project-2024-07-26-18_00_53](https://github.com/user-attachments/assets/ecf60c89-3594-42c9-9392-4c0ef0b93fac)
+![screencapture-file-C-Users-snigd-newman-Project-2024-08-04-10_00_00](https://github.com/user-attachments/assets/0bde45b7-d2ec-4bf5-8b1e-16a72fe63342)
+
 
 
